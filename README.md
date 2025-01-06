@@ -97,9 +97,6 @@ This repository contains multiple models developed for predicting heart attack r
 ## Dataset Source
 This project utilizes the dataset from [Kaggle](https://www.kaggle.com/datasets/mohamedmustafashaban/heart-attack-prediction).
 
-## Results
-The results are provided in `.txt` files, and visualizations are created for analysis.
-
 ## Comparison and Conclusion
 
 ### Comparison:
